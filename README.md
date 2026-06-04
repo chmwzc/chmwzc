@@ -13,7 +13,6 @@ I obtained a BSc. (Honours) in Chemistry with a second major in Mathematics, and
 Before joining IHPC, I worked on modelling various molecular photophysical processes and simulating the vibronic coupling in molecules using density functional theory and GW methods.
 Outside of work, I like to play badminton🏸 and jog (slowly) :runner:.
 
-(No, I'm not a cat; my quest to take a nice wefie with a community cat remains incomplete :pouting_cat:)
 
 <!--
 **chmwzc/chmwzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
