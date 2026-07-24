@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Zi Cheng, a Scientist in the Computing and Intelligence department of the Institute of High Performance Computing (IHPC), a research institute under the Agency for Science, Technology and Research (A*STAR)
+I'm Zi Cheng, a 打工仔 (roughly: corporate drone) in the Institute of Advanced Intelligence and Computing (IAIC), a research institute under the Agency for Science, Technology and Research (A*STAR)
 
 - 🔭 I’m currently working on:
   -  Developing software and applications for quantum algorithms in chemistry-related areas
@@ -10,7 +10,7 @@ I'm Zi Cheng, a Scientist in the Computing and Intelligence department of the In
 ###  Short Biography
 
 I obtained a BSc. (Honours) in Chemistry with a second major in Mathematics, and a PhD. focusing on Computational Chemistry at the National University of Singapore.
-Before joining IHPC, I worked on modelling various molecular photophysical processes and simulating the vibronic coupling in molecules using density functional theory and GW methods.
+Before joining A*STAR, I worked on modelling various molecular photophysical processes and simulating the vibronic coupling in molecules using density functional theory and GW methods.
 Outside of work, I like to play badminton🏸 and jog (slowly) :runner:.
 
 
